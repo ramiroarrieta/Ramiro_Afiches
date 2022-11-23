@@ -12,8 +12,8 @@ body {
 	background-color: #DDDDDD;
 	color: rgb(0, 0, 0);
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	font-size: 20px;
-	font-weight: 350;
+	font-size: 30px;
+	font-weight: 300;
 	overflow-x: hidden;
 }
 
@@ -29,15 +29,15 @@ a:focus {
 }
 
 .tm-brand-icon { 
-	padding: 10px;
+	padding: 0px;
     background: none;
     color: black;
-    font-size: 4rem;
+    font-size: 5rem;
     margin-right: 15px;
 }
 
 .container-fluid { 
-	width: 100%; /* IE fix */
+	width: 85%; /* IE fix */
 	padding-left: 0;
 	padding-right: 0;
 }
